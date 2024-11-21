@@ -1,0 +1,36 @@
+body {
+    background-color: #d5e1ef;
+    font-family: 'Outfit', sans-serif;
+}
+
+body p {
+    font: 400 22px/1.5 'Outfit', sans-serif;
+    text-align: center;
+    color: #84868d;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+#main {
+    width: 375px;
+    padding: 15px;
+    margin: 200px auto 0;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+#head {
+    font: 700 30px/1.2 'Outfit', sans-serif;
+    text-align: center;
+    color: #141d31;
+}
+
+#qrcode {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 15px;
+}
